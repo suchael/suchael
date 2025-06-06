@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Success Ahmed</span></h2>
+<h2 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Success Ahmed</span></h2>
 
 <p align="center">
   A passionate <strong>Fullstack Software Engineer</strong> building for the web and mobile.<br />
@@ -14,10 +14,10 @@
 <ul>
   <li><strong>Frontend:</strong> React, React Native, HTML5, CSS3, JavaScript, TypeScript</li>
   <li><strong>Backend:</strong> Node.js, Express, NestJS</li>
-  <li><strong>Programming:</strong> Python, C#, TypeScript</li>
+  <li><strong>Programming:</strong> JavaScript, TypeScript, Python, C/C++ </li>
   <li><strong>CS Fundamentals:</strong> Data Structures & Algorithms</li>
   <li><strong>AI/ML:</strong> Python-based Artificial Intelligence projects</li>
-  <li><strong>Embedded Systems:</strong> I tinker with hardware and low-level code too</li>
+  <li><strong>Embedded Systems:</strong> Arduino, Esp 32, Rasberry Pi</li>
 </ul>
 
 ###
@@ -57,6 +57,4 @@
 </div>
 
 <br clear="both" />
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ###
